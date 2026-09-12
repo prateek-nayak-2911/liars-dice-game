@@ -3,7 +3,7 @@
 An AI that teaches **itself** to play (and bluff at) Liar's Dice, using
 **Deep Reinforcement Learning** in PyTorch. It starts knowing nothing and
 learns purely by playing **60,000 games against itself** — in about
-**30 seconds** on a normal lapt CPU (no GPU needed).
+**30 seconds** on a normal laptop CPU (no GPU needed).
 
 Built as a teaching example: small, self-contained, and fully runnable.
 
